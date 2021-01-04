@@ -82,7 +82,7 @@
 #define motherboard_name BOARD_BTT_SKR_E3_DIP
 #define SERIAL_PORT -1 //2
 #define SERIAL_PORT_2 2 //-1
-#define BAUDRATE 115200
+#define BAUDRATE 250000
 #endif
 
 #if ENABLED(BTTSKRPROV1_1)
